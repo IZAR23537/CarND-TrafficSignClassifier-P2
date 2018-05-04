@@ -84,9 +84,9 @@ After the model change, the validation accuracy is started to rise above 90%.
 I changed the number of epochs from 10 to 25 and the accuracy is risen above 93%.
 
 My final model results were:
-    Training set accuracy: 1.0
+    Training set accuracy: 0.999
     Validation set accuracy: 0.942
-    Test set accuracy: 0.938
+    Test set accuracy: 0.931
     
 
 ### Test a Model on New Images
@@ -105,12 +105,10 @@ After preprocessing the images:
 
 As a next step I evaluated the new images. 
 
-Four out of the five images were classified correctly. It means that the network recognized 80% of the new images.
+Five out of the five images were classified correctly. It means that the network recognized 100% of the new images.
 
 #### 2. Top 5 softmax probabilities on new images
 
 Here are the results of the prediction:
 
-![prediction_2](/write_up_images/image5.JPG) ![prediction_1](/write_up_images/image4.JPG)
-
-The only image that the model recognized falsely is the speed limit 70 km/h sign. It recognized as a speed limit 20 km/h sign.
+![prediction_2](/write_up_images/image5.JPG) ![prediction_1](/write_up_images/image4.JPG) 
