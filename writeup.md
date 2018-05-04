@@ -40,7 +40,7 @@ signs data set:
 
 Here is a few random image of the data set.
 
-![random_images](/write_up_images/image1.jpg)
+![random_images](/write_up_images/image1.JPG)
 
 ### Design and Test a Model Architecture
 
