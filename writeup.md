@@ -113,4 +113,4 @@ Here are the results of the prediction:
 
 ![prediction_2](/write_up_images/image5.JPG) ![prediction_1](/write_up_images/image4.JPG)
 
-The only image that the model recognized falsely is the speed limit 70 km/h sign. It recognised as a speed limit 20 km/h sign.
+The only image that the model recognized falsely is the speed limit 70 km/h sign. It recognized as a speed limit 20 km/h sign.
