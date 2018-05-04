@@ -111,4 +111,4 @@ Four out of the five images were classified correctly. It means that the network
 
 Here are the results of the prediction:
 
-![prediction_1](/write_up_images/image4.JPG)                        ![prediction_2](/write_up_images/image5.JPG)
+![prediction_2](/write_up_images/image5.JPG) ![prediction_1](/write_up_images/image4.JPG)
