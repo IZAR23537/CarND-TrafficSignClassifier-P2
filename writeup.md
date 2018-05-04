@@ -95,13 +95,13 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![title](write_up_images/image2.jpg)
+![German_traffic_signs](/write_up_images/image2.JPG)
 
 These new images have different sizes and contains different traffic sign.
 
 After preprocessing the images:
 
-![title](write_up_images/image3.jpg)
+![pre_processed_images](/write_up_images/image3.JPG)
 
 As a next step I evaluated the new images. 
 
@@ -111,4 +111,4 @@ Four out of the five images were classified correctly. It means that the network
 
 Here are the results of the prediction:
 
-![title](write_up_images/image4.jpg) ![title](write_up_images/image5.jpg)
+![prediction_1](/write_up_images/image4.JPG) ![prediction_2](/write_up_images/image5.JPG)
