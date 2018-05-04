@@ -95,7 +95,7 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][https://write_up_images/image2.jpg.jpg]
+![title](write_up_images/image2.jpg)
 
 These new images have different sizes and contains different traffic sign.
 
