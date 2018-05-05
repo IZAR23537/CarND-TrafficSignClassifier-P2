@@ -97,7 +97,14 @@ Here are five German traffic signs that I found on the web:
 
 ![German_traffic_signs](/write_up_images/image2.JPG)
 
-These new images have different sizes and contains different traffic sign.
+I chose these images based on their background, the shape of the sign and what type of sign should i check for validation.
+
+These new images also have different image sizes.
+
+The first, second and third images (13_yield.jpg, 14_stop.jpg, 17_no_entry) have different sign shape (triangle, octagon, circle) and  have different backgrounds as well (cloudy, bright and one that contains tree leaves).
+
+The fourth and fifth images (3_speed_limit_60, 4_speed_limit_70) contains numbers, which might be more diffucult for the model to recognize. For example the model might recognize the images as a speed limit 80 and a speed limit 20.
+
 
 After preprocessing the images:
 
